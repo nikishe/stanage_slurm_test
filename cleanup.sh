@@ -1,0 +1,6 @@
+rm -f  "email_*.out"
+rm -f  "multi_node_test.out"
+rm -f  "multi_gpu_test.out"
+rm -f  "partition_test.out"
+rm -f  "dep_job_*.out" 
+rm -f  "array_job_output_*.out"
